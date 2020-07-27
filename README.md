@@ -1,5 +1,5 @@
 # Graduate-Admission-Predictor
-Graduate Admission Predictor built using Deep Neural Network. This was my research project during 2nd-year as a Computer Science student minoring in Artificial Intelligence. 
+Graduate Admission Predictor built using Deep Neural Network. This was my group research project during the 2nd-year as a Computer Science major.
 
 In this experiment, we compared the performances of different kinds of algorithms to predict graduate admission results of graduate students at University. The result shows that Deep Neural Network algorithm performs better with accuracy of around 79%, compared to other algorithms such as Linear Regression (72%), Support Vector Regression (64%), Decision Tree Regression (50%), and Random Forest Regression (66%). Based on this experiment, we can conclude that Deep Neural Network algorithm produces the best accuracy in predicting the graduate admission result at university. 
 
